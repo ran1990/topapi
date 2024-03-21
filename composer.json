@@ -1,0 +1,11 @@
+{
+    "name": "life2016/topapi",
+    "description": "topapi php sdk、包含淘宝联盟 和饿了么联盟php7代码",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Topsdk\\Topapi\\": "src/"
+        }
+    },
+    "require": {}
+}
